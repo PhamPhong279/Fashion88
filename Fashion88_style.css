@@ -1,0 +1,96 @@
+body{
+    font-family: Tahoma;
+    font-size: 13px;
+    background-color: rgb(24, 24, 24);
+    margin: 30px auto;
+    width: 980px;
+    position: relative;
+}
+
+#header {
+    padding: 25px 25px 0px 25px;
+    background-color: rgb(255, 255, 255);
+}
+
+#header #menu {
+    position: absolute;
+    margin-top: -44%;
+    margin-left: 3.2%;
+}
+
+.word {
+    position: absolute;
+    margin-top: -31%;
+    margin-left: 30%;
+}
+
+#body {
+    background-color: rgb(255, 255, 255);
+    padding: 0px 25px;
+}
+
+#body .anh1 {
+    float: left;
+}
+
+#body .word1 {
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 12%;
+}
+
+#body .word2 {
+    position: absolute;
+    margin-top: -27%;
+    margin-left: 66%;
+}
+
+#hips {
+    background-color: rgb(255, 255, 255);
+}
+
+#hips .word3 {
+    margin-top: 20px;
+    margin-left: 240px;
+}
+
+#hips .anh3 {
+    margin-top: 18px;
+    margin-left: 2.5%;
+}
+
+#footer {
+    background-color: rgb(255, 255, 255);
+    padding: 50px 25px 50px 25px;
+}
+
+#footer #left {
+    margin-bottom: 60px;
+    margin-left: 60px;
+    display: inline-block;
+}
+
+#footer #form {
+    display: inline;
+}
+
+#footer .input {
+    height: 30px;
+    width: 250px;
+    margin-top: 5px;    
+}
+
+#footer .input1 {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    width: 34px;
+}
+
+#footer #right {
+    margin-left: 380px;
+    display: inline-block;
+}
+
+#footer .word4 {
+    margin-left: 190px;
+}
